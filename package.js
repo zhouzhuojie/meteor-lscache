@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "lscache is a simple library that emulates memcache functions using HTML5 localStorage with TTL support.",
+  summary: "lscache is a simple HTML5 localStorage with TTL support.",
   version: "0.1.0",
   git: "https://github.com/zhouzhuojie/meteor-lscache.git",
   name: "rexzh0u:lscache"
