@@ -1,0 +1,9 @@
+[submodule "lib/bxslider-4"]
+	path = lib/bxslider-4
+	url = https://github.com/stevenwanderski/bxslider-4.git
+[submodule "lib/kizzy"]
+	path = lib/kizzy
+	url = https://github.com/ded/Kizzy.git
+[submodule "lib/lscache"]
+	path = lib/lscache
+	url = https://github.com/pamelafox/lscache.git
